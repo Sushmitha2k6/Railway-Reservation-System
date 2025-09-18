@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224230282
+# Name:SUSHMITHA S
+# Date:18-09-2025
 
 
 # AIM:
@@ -39,10 +39,11 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+``` USE CASE DIAGRAM```
 
 
 
-
+<img width="1075" height="916" alt="USECASE3" src="https://github.com/user-attachments/assets/2796a879-5be4-48c9-b8e9-e840d4cdd09c" />
 
 
 # CLASS DIAGRAM
@@ -59,6 +60,12 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+```CLASS DIAGRAM```
+
+
+
+<img width="1170" height="709" alt="CLASS3" src="https://github.com/user-attachments/assets/257a8d05-ec9e-4e00-a6b5-9a3deeed49c4" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +73,13 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+```COMMUNICATION DIAGRAM```
+
+
+
+
+![COMM3](https://github.com/user-attachments/assets/235b2211-06d7-47bd-919b-90766f554663)
+
 
 
 
@@ -80,8 +94,10 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+```PACKAGE DIAGRAM```
 
 
+<img width="846" height="507" alt="PACKAGE3" src="https://github.com/user-attachments/assets/56090140-fd55-4772-941b-3046ffe511b8" />
 
 
 
@@ -99,6 +115,9 @@ Describe the steps performed in a UML use case.
 
 
 
+```ACTIVITY DIAGRAM```
+
+![ACTIVITY](https://github.com/user-attachments/assets/b3b991f5-74d7-41b7-a525-de6634ff4422)
 
 
 # SEQUENCE DIAGRAM
@@ -117,8 +136,11 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
+```SEQUENCE DIAGRAM```
 
 
+
+<img width="1056" height="876" alt="SEQ3" src="https://github.com/user-attachments/assets/d923402a-f999-4f73-9f5e-509643857e18" />
 
 
 
